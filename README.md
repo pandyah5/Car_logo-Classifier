@@ -20,5 +20,5 @@ The neural network used is a Convoluted Neural network (CNN) with an architectur
 
 # The architecture
 
-
+![Neural Network Architecture](https://github.com/pandyah5/Car_logo-Classifier/blob/master/CarLogo_architecture.PNG)
 
